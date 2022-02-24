@@ -1,3 +1,3 @@
-<div>
-    {{-- The whole world belongs to you. --}}
-</div>
+<section id='about' class='bg-red'>
+    <h1>About</h1>
+</section>

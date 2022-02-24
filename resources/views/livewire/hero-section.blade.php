@@ -1,3 +1,3 @@
-<div>
-    {{-- Knowing others is intelligence; knowing yourself is true wisdom. --}}
-</div>
+<section id='hero'>
+    <h1>Hero</h1>
+</section>
