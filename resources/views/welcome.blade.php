@@ -45,8 +45,9 @@
                 @livewire('hero-section')
                 @livewire('services-section')
                 @livewire('about-section')
+                @livewire('logo-cloud-section')
                 @livewire('contact-section')
-                
+
                 @livewireStyles
             </div>
         </div>
