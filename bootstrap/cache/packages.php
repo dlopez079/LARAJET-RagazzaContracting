@@ -45,6 +45,13 @@
       0 => 'Laravel\\Tinker\\TinkerServiceProvider',
     ),
   ),
+  'laravel/vapor-core' => 
+  array (
+    'providers' => 
+    array (
+      0 => 'Laravel\\Vapor\\VaporServiceProvider',
+    ),
+  ),
   'livewire/livewire' => 
   array (
     'providers' => 
