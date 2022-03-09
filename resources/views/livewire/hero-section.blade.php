@@ -190,12 +190,10 @@
                 
                         <span class="mt-1 block text-4xl tracking-tight font-extrabold sm:text-5xl xl:text-6xl">
                             <span class="block text-gray-900">Ragazza Contracting</span>
-                            <span class="block text-red-600 text-3xl">We'll handle your paperwork.</span>
+                            <span class="block text-red-600 text-4xl">Construction Contract Managers</span>
                         </span>
                     </h1>
-                    <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">Anim aute id magna
-                        aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat
-                        veniam occaecat fugiat aliqua ad ad non deserunt sunt.</p>
+                    <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">Ragazza Contracting has more than 10 years experience providing high residential and commercial contracting services. We offer a swift turnaround on high quality work and a reasonable price range.</p>
 
                 </div>
                 <div
