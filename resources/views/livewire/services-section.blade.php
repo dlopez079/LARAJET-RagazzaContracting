@@ -8,7 +8,7 @@
       </div>
       <div class="relative max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
         <h1 class="text-4xl font-extrabold tracking-tight text-white md:text-5xl lg:text-6xl">Services</h1>
-        <p class="mt-6 max-w-3xl text-xl text-gray-300">Varius facilisi mauris sed sit. Non sed et duis dui leo, vulputate id malesuada non. Cras aliquet purus dui laoreet diam sed lacus, fames. Dui, amet, nec sit pulvinar.</p>
+        <p class="mt-6 max-w-3xl text-xl text-gray-300">Safe construction begins with qualified and experienced professionals. When submitting construction documents to the Department, the principal Registered Design Professional – the Applicant of Record – is responsible for submission of the complete set at filing: application, drawings and coordination of required documents.</p>
       </div>
     </div>
   
