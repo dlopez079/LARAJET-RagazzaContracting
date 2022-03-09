@@ -1,19 +1,3 @@
-<!--
-  This example requires Tailwind CSS v2.0+ 
-  
-  This example requires some changes to your config:
-  
-  ```
-  // tailwind.config.js
-  module.exports = {
-    // ...
-    plugins: [
-      // ...
-      require('@tailwindcss/typography'),
-    ],
-  }
-  ```
--->
 <section id='about' class="py-16 bg-gray-50 overflow-hidden">
     <div class="max-w-7xl mx-auto px-4 space-y-8 sm:px-6 lg:px-8">
       <div class="text-base max-w-prose mx-auto lg:max-w-none">
