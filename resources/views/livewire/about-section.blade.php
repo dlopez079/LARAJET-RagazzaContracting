@@ -17,7 +17,6 @@
 <section id='about' class="py-16 bg-gray-50 overflow-hidden">
     <div class="max-w-7xl mx-auto px-4 space-y-8 sm:px-6 lg:px-8">
       <div class="text-base max-w-prose mx-auto lg:max-w-none">
-        <h2 class="text-base text-red-600 font-semibold tracking-wide uppercase">Transactions</h2>
         <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">What makes us different</p>
       </div>
       <div class="relative z-10 text-base max-w-prose mx-auto lg:max-w-5xl lg:mx-0 lg:pr-72">
@@ -36,14 +35,7 @@
             <h3>We’re here to help</h3>
             <p>Tincidunt integer commodo, cursus etiam aliquam neque, et. Consectetur pretium in volutpat, diam. Montes, magna cursus nulla feugiat dignissim id lobortis amet. Laoreet sem est phasellus eu proin massa, lectus. Diam rutrum posuere donec ultricies non morbi. Mi a platea auctor mi.</p>
           </div>
-          <div class="mt-10 flex text-base max-w-prose mx-auto lg:max-w-none">
-            <div class="rounded-md shadow">
-              <a href="#" class="w-full flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-red-700"> Contact sales </a>
-            </div>
-            <div class="rounded-md shadow ml-4">
-              <a href="#" class="w-full flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-red-600 bg-white hover:bg-gray-50"> Learn more </a>
-            </div>
-          </div>
+
         </div>
         <div class="mt-12 relative text-base max-w-prose mx-auto lg:mt-0 lg:max-w-none">
           <svg class="absolute top-0 right-0 -mt-20 -mr-20 lg:top-auto lg:right-auto lg:bottom-1/2 lg:left-1/2 lg:mt-0 lg:mr-0 xl:top-0 xl:right-0 xl:-mt-20 xl:-mr-20" width="404" height="384" fill="none" viewBox="0 0 404 384" aria-hidden="true">
