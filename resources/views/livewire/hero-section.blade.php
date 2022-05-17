@@ -63,7 +63,7 @@
 
                         <a href="#about" class="font-medium text-gray-500 hover:text-gray-900">About</a>
 
-                        <a href="#partners" class="font-medium text-gray-500 hover:text-gray-900">Partners</a>
+                        <a href="#logo-cloud" class="font-medium text-gray-500 hover:text-gray-900">Partners</a>
 
                         <a href="#contact" class="font-medium text-gray-500 hover:text-gray-900">Contact</a>
                     </div>
