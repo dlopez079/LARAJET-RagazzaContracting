@@ -32,8 +32,8 @@
 
             </div>
 
-            <h3 class="text-xl font-medium text-gray-900">Communication</h3>
-            <p class="mt-4 text-base text-gray-500">Varius facilisi mauris sed sit. Non sed et duis dui leo, vulputate id malesuada non. Cras aliquet purus dui laoreet diam sed lacus, fames.</p>
+            <h3 class="text-xl font-medium text-gray-900">Contract Bidding</h3>
+            <p class="mt-4 text-base text-gray-500">We work closely with the Mayor's Office of Contract Services (MOCS) and the New York City of School Construction Authority (NYC SCA) to prepare and submit applications on your behalf.  In addition, we prepare certified city payroll.</p>
           </div>
           <div class="p-6 bg-gray-50 rounded-bl-2xl rounded-br-2xl md:px-8">
             <a href="#" class="text-base font-medium text-red-700 hover:text-red-600">Contact us<span aria-hidden="true"> &rarr;</span></a>
@@ -49,8 +49,8 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.364 5.636l-3.536 3.536m0 5.656l3.536 3.536M9.172 9.172L5.636 5.636m3.536 9.192l-3.536 3.536M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-5 0a4 4 0 11-8 0 4 4 0 018 0z" />
               </svg>
             </div>
-            <h3 class="text-xl font-medium text-gray-900">Contract Bidding</h3>
-            <p class="mt-4 text-base text-gray-500">Varius facilisi mauris sed sit. Non sed et duis dui leo, vulputate id malesuada non. Cras aliquet purus dui laoreet diam sed lacus, fames.</p>
+            <h3 class="text-xl font-medium text-gray-900">Audit Preperation</h3>
+            <p class="mt-4 text-base text-gray-500">We protect your business and employees by preparing your worker's compensation, professional liability, and general liability.  In addition, our organized business model will keep you prepared for any union audit if necessary.</p>
           </div>
           <div class="p-6 bg-gray-50 rounded-bl-2xl rounded-br-2xl md:px-8">
             <a href="#" class="text-base font-medium text-red-700 hover:text-red-600">Contact us<span aria-hidden="true"> &rarr;</span></a>
@@ -67,7 +67,7 @@
               </svg>
             </div>
             <h3 class="text-xl font-medium text-gray-900">Financial Management</h3>
-            <p class="mt-4 text-base text-gray-500">Varius facilisi mauris sed sit. Non sed et duis dui leo, vulputate id malesuada non. Cras aliquet purus dui laoreet diam sed lacus, fames.</p>
+            <p class="mt-4 text-base text-gray-500">Whether you follow a cash or accrual model, we record all transactions for accounts receivables, accounts payables, and AIA Billing.  Detailed reports will prepare your business for short and long-term goals while maintaining your company organized.</p>
           </div>
           <div class="p-6 bg-gray-50 rounded-bl-2xl rounded-br-2xl md:px-8">
             <a href="#" class="text-base font-medium text-red-700 hover:text-red-600">Contact us<span aria-hidden="true"> &rarr;</span></a>

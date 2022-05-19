@@ -1,26 +1,48 @@
 <section id='about' class="py-16 bg-gray-50 overflow-hidden">
     <div class="max-w-7xl mx-auto px-4 space-y-8 sm:px-6 lg:px-8">
+
+      {{-- Title --}}
       <div class="text-base max-w-prose mx-auto lg:max-w-none">
-        <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">What makes us different</p>
+        <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">About Us</p>
       </div>
+
+      {{-- First paragraph --}}
       <div class="relative z-10 text-base max-w-prose mx-auto lg:max-w-5xl lg:mx-0 lg:pr-72">
-        <p class="text-lg text-gray-500">Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae.</p>
+        <p class="text-lg text-gray-500">With over twenty years of experience, Ragazza Contracting help built a legacy of successful projects, ranging from $1 million to $250 million, for multiple clients in the NYC area.  They have a great reputation with the Department of Buildings, the New York City Housing Authority (NYCHA), New York City School Construction Authority (SCA) and the state of New York.  This allows Regazza to, not only excel, but to swiftly complete projects for all clients in a timely manner.  The consulting firm, headquartered in Queens, NY, consists of a wonderful, knowledgeable staff that will make sure you obtain work, maintain work and, finally, get paid for the work performed.</p>
       </div>
+
+      {{-- Sub paragraph --}}
       <div class="lg:grid lg:grid-cols-2 lg:gap-8 lg:items-start">
+
+        {{-- About Us Literature --}}
         <div class="relative z-10">
+
+          {{-- Sub Section --}}
           <div class="prose prose-red text-gray-500 mx-auto lg:max-w-none">
-            <p>Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna.</p>
+
+            {{-- First Sub-paragraph --}}
+            <p>There are three important goals for Ragazza contracting: </p>
+
+            {{-- Bullet List --}}
             <ul role="list">
-              <li>Quis elit egestas venenatis mattis dignissim.</li>
-              <li>Cras cras lobortis vitae vivamus ultricies facilisis tempus.</li>
-              <li>Orci in sit morbi dignissim metus diam arcu pretium.</li>
+              <li>Successfully bid for a project.</li>
+              <li>Maintain the project.</li>
+              <li>Receive compensation for the project.</li>
             </ul>
-            <p>Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra.</p>
-            <h3>We’re here to help</h3>
-            <p>Tincidunt integer commodo, cursus etiam aliquam neque, et. Consectetur pretium in volutpat, diam. Montes, magna cursus nulla feugiat dignissim id lobortis amet. Laoreet sem est phasellus eu proin massa, lectus. Diam rutrum posuere donec ultricies non morbi. Mi a platea auctor mi.</p>
+
+            {{-- Second Sub-paragraph --}}
+            <p>It is important that all projects are completed successfully.  Ragazza's extensive experience in the financial sector can really improve your chances on completing a project.  Ragazza will make you look like the quickest and most reliable company contracted. </p>
+
+            {{-- Sub Heading --}}
+            {{-- <h3>We’re here to help</h3> --}}
+
+            {{-- Sub Heading sub-paragraph --}}
+            {{-- <p>Tincidunt integer commodo, cursus etiam aliquam neque, et. Consectetur pretium in volutpat, diam. Montes, magna cursus nulla feugiat dignissim id lobortis amet. Laoreet sem est phasellus eu proin massa, lectus. Diam rutrum posuere donec ultricies non morbi. Mi a platea auctor mi.</p> --}}
           </div>
 
         </div>
+
+        {{-- Testimonial Card and testimony --}}
         <div class="mt-12 relative text-base max-w-prose mx-auto lg:mt-0 lg:max-w-none">
           <svg class="absolute top-0 right-0 -mt-20 -mr-20 lg:top-auto lg:right-auto lg:bottom-1/2 lg:left-1/2 lg:mt-0 lg:mr-0 xl:top-0 xl:right-0 xl:-mt-20 xl:-mr-20" width="404" height="384" fill="none" viewBox="0 0 404 384" aria-hidden="true">
             <defs>
@@ -51,6 +73,7 @@
             </cite>
           </blockquote>
         </div>
+
       </div>
     </div>
 </section>  
