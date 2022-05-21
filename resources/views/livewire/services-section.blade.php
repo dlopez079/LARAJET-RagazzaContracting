@@ -12,7 +12,7 @@
       </div>
     </div>
   
-    <!-- Overlapping cards -->
+    {{-- <!-- Overlapping cards --> --}}
     <section class="-mt-32 max-w-7xl mx-auto relative z-10 pb-32 px-4 sm:px-6 lg:px-8" aria-labelledby="contact-heading">
       <h2 class="sr-only" id="contact-heading">Services</h2>
 
@@ -33,7 +33,7 @@
             </div>
 
             <h3 class="text-xl font-medium text-gray-900">Contract Bidding</h3>
-            <p class="mt-4 text-base text-gray-500">We work closely with the Mayor's Office of Contract Services (MOCS) and the New York City of School Construction Authority (NYC SCA) to prepare and submit applications on your behalf.  In addition, we prepare certified city payroll.</p>
+            <p class="mt-4 text-base text-gray-500">We work closely with the Mayor's Office of Contract Services (MOCS), New York City Housing Authority (NYCHA), and the New York City of School Construction Authority (NYC SCA) to prepare and submit applications on your behalf. We make sure that all clients are certified with MOCS so they can continue to bid for projects. In addition, we prepare certified city payroll.</p>
           </div>
           <div class="p-6 bg-gray-50 rounded-bl-2xl rounded-br-2xl md:px-8">
             <a href="#" class="text-base font-medium text-red-700 hover:text-red-600">Contact us<span aria-hidden="true"> &rarr;</span></a>
